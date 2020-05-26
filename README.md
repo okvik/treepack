@@ -52,3 +52,7 @@ The resulting file tree produced by `treeload` is as follows:
 * Rewrite as a Lua host (script?) driven by Lua tables.
 	* This way any structured format can be generically plugged in by
 	  writing a binding and using it to fill a Lua table.
+
+## NOTES
+
+Cleaned up [ucl.h](http://a-b.xyz/eb/876b)
