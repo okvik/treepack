@@ -1,0 +1,3 @@
+#!/bin/sh -e
+./cc treeload.c
+./ld -lucl treeload.o -o treeload

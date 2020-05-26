@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./treeload outdir test/array.ucl
